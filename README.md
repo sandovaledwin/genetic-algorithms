@@ -29,7 +29,7 @@ For executing the program you must type in your Mac OSX terminal or in the Windo
 
 In this example we are trying to guess the next string using a genetic algorithm:
 
-    To or not to be!
+    To be or not to be!
 
 Each time that a generation is created we improve the results and we're getting a lower cost, reducing the error.
 
