@@ -58,3 +58,11 @@ Each time that a generation is created we improve the results and we're getting 
     Generation: 2014
     Cost: 0 To be or not to be!
     ...
+
+## References
+
+Genetic Algorithms with Python:
+[Chapter 1 - Book](https://www.amazon.com/Genetic-Algorithms-Python-Clinton-Sheppard/dp/1540324001)
+
+Machine Learning: Introduction to Genetic Algorithms
+[Blog](https://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/)
